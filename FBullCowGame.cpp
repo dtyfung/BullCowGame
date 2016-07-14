@@ -2,7 +2,7 @@
 #include "FBullCowGame.h"
 #include <map>
 
-#define TMap std::map    // TMap is in Unreal Convention
+#define TMap std::map    // TMap is in Unreal Convention 
 using int32 = int;		 // Unreal convention
 
 // Default Constructor
