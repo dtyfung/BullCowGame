@@ -1,0 +1,34 @@
+Bulls & Cows Game
+Inputs
+	-Text
+
+Outputs
+	-Bull (letters in the right location)
+	-Cow (letters in the wrong location)
+	-Guesses left
+
+Task
+	-User will be asked to guess the remaining letters
+
+Performance
+	-None so far
+	
+Assets
+	-Possibly a visual display of a bull & cow
+	-Sound of bull & cow 
+	-Text cues for user to narrow down the correct guess
+	
+	
+Actual Requirements
+	-Plain text instructions for all interactions
+	-Code to deal help the player make a valid guess (e.g. all lowercase, an isogram, right length)
+	-Code to check the number of Bulls and Cows in the guess, compared to the hidden word
+	-Code to keep track of the number of valid guesses
+	
+Future All-Ons
+	-Give feedback on every key press
+	-Have a large dictionary of hidden words
+	-User selectable world length, and difficulty
+	-Checking the user's guess is a dictionary isogram
+	-Providing a time limit for the guesses
+	-A hint system, spend a turn for a hint 
